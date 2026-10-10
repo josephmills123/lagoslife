@@ -1,3 +1,4 @@
+
 # Lagos Life gift runner
 
 Loops until it hits `COUNT`. Per account:
@@ -279,3 +280,7 @@ GIFTED  tu_76754879184  18s  tx 2d86ca81d0ee485b88b2
 9/10 succeeded · ₦9,000,000 gifted · 174s
 typical 11-13s · two outliers · median 13s
 ```
+=======
+# lagoslife
+private
+>>>>>>> bb4c03f43feca7a8fcf8efd3b4e3ef7b2fc22100
